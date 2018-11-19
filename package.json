@@ -1,0 +1,18 @@
+{
+  "name": "project-2",
+  "version": "1.0.0",
+  "description": "Blockchain has the potential to change the way that the world approaches data. Develop Blockchain skills by understanding the data model behind Blockchain by developing your own simplified private blockchain.",
+  "main": "BlockchainApp.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mohammed Al Shaalan @imsh3lan",
+  "license": "ISC",
+  "dependencies": {
+    "blockexplorer": "^1.0.1",
+    "bluebird": "^3.5.3",
+    "crypto-js": "^3.1.9-1",
+    "express": "^4.16.4",
+    "level": "^4.0.0"
+  }
+}
